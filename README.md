@@ -2,7 +2,7 @@
 A Latin font derived from [Slabo 13px/27px](https://github.com/TiroTypeworks/Slabo).
 
 ## Comparison between Slabo and SlabMod
-The digit glyphs of Slabo are in classic style while those of SlabMod are **monoheighted**.
+The digit glyphs of Slabo are in classic style while those of SlabMod are lining.
 ![](https://github.com/lxgw/SlabMod/raw/main/Comparison.png)
 
 ## License
