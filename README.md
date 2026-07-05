@@ -39,4 +39,4 @@ SlabMod 字体依据 [SIL Open Font License 1.1](https://github.com/lxgw/SlabMod
 
 ## Acknowledgement / 鸣谢
 
-- [Slabo](https://github.com/TiroTypeworks/Slabo) by [TiroTypeworks](https://github.com/TiroTypeworks)
+- [Slabo](https://github.com/TiroTypeworks/Slabo) by [Tiro Typeworks Ltd.](https://github.com/TiroTypeworks)
